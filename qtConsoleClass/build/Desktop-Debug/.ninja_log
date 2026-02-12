@@ -1,0 +1,21 @@
+# ninja log v6
+1	36	1770918115173083554	qtConsoleClass_autogen/timestamp	caa209f040cb936
+1	36	1770918115173083554	qtConsoleClass_autogen/mocs_compilation.cpp	caa209f040cb936
+1	36	1770918115173083554	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleClass/build/Desktop-Debug/qtConsoleClass_autogen/mocs_compilation.cpp	caa209f040cb936
+1	36	1770918115173083554	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleClass/build/Desktop-Debug/qtConsoleClass_autogen/timestamp	caa209f040cb936
+37	47	1770918115182322213	CMakeFiles/qtConsoleClass.dir/qtConsoleClass_autogen/mocs_compilation.cpp.o	75faa3f3d46f8e4b
+37	625	1770918115182968285	CMakeFiles/qtConsoleClass.dir/main.cpp.o	b919b53253fd2abf
+625	698	1770918115770085684	qtConsoleClass	583efa0d87c27f0c
+2	35	1770918349416919318	qtConsoleClass_autogen/timestamp	caa209f040cb936
+2	35	1770918349416919318	qtConsoleClass_autogen/mocs_compilation.cpp	caa209f040cb936
+2	35	1770918349416919318	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleClass/build/Desktop-Debug/qtConsoleClass_autogen/timestamp	caa209f040cb936
+2	35	1770918349416919318	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleClass/build/Desktop-Debug/qtConsoleClass_autogen/mocs_compilation.cpp	caa209f040cb936
+35	663	1770918349451100332	CMakeFiles/qtConsoleClass.dir/main.cpp.o	b919b53253fd2abf
+36	751	1770918349451602331	CMakeFiles/qtConsoleClass.dir/persona.cpp.o	16ed250123aac053
+751	828	1770918350165921990	qtConsoleClass	cd3e2ab9ac77f8e
+2	29	1770918360284958094	qtConsoleClass_autogen/timestamp	caa209f040cb936
+2	29	1770918360284958094	qtConsoleClass_autogen/mocs_compilation.cpp	caa209f040cb936
+2	29	1770918360284958094	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleClass/build/Desktop-Debug/qtConsoleClass_autogen/timestamp	caa209f040cb936
+2	29	1770918360284958094	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleClass/build/Desktop-Debug/qtConsoleClass_autogen/mocs_compilation.cpp	caa209f040cb936
+29	645	1770918360313077926	CMakeFiles/qtConsoleClass.dir/main.cpp.o	b919b53253fd2abf
+645	721	1770918360927960388	qtConsoleClass	cd3e2ab9ac77f8e

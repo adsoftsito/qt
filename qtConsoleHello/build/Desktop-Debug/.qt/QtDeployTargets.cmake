@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_qtConsoleHello_FILE /home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleHello/build/Desktop-Debug/qtConsoleHello)
+set(__QT_DEPLOY_TARGET_qtConsoleHello_TYPE EXECUTABLE)

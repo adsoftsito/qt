@@ -1,0 +1,14 @@
+# ninja log v6
+2	35	1770917030344212967	qtConsoleHello_autogen/timestamp	5df8363d93a2d6b0
+2	35	1770917030344212967	qtConsoleHello_autogen/mocs_compilation.cpp	5df8363d93a2d6b0
+2	35	1770917030344212967	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleHello/build/Desktop-Debug/qtConsoleHello_autogen/timestamp	5df8363d93a2d6b0
+2	35	1770917030344212967	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleHello/build/Desktop-Debug/qtConsoleHello_autogen/mocs_compilation.cpp	5df8363d93a2d6b0
+35	47	1770917030352904047	CMakeFiles/qtConsoleHello.dir/qtConsoleHello_autogen/mocs_compilation.cpp.o	61b48df7dee428cb
+36	884	1770917030353212999	CMakeFiles/qtConsoleHello.dir/main.cpp.o	6bb478d5eb1947c1
+884	984	1770917031201216025	qtConsoleHello	397ad04c6e65cfbc
+3	30	1770917326629270087	qtConsoleHello_autogen/timestamp	5df8363d93a2d6b0
+3	30	1770917326629270087	qtConsoleHello_autogen/mocs_compilation.cpp	5df8363d93a2d6b0
+3	30	1770917326629270087	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleHello/build/Desktop-Debug/qtConsoleHello_autogen/timestamp	5df8363d93a2d6b0
+3	30	1770917326629270087	/home/adsoft/Desktop/2026/usbi/interface/projects/qtConsoleHello/build/Desktop-Debug/qtConsoleHello_autogen/mocs_compilation.cpp	5df8363d93a2d6b0
+30	654	1770917326656270184	CMakeFiles/qtConsoleHello.dir/main.cpp.o	6bb478d5eb1947c1
+654	730	1770917327280272410	qtConsoleHello	397ad04c6e65cfbc
